@@ -1,0 +1,32 @@
+[
+    {
+        "Question": "What is 2+2?",
+        "Choices": {
+            "C1": "4",
+            "C2": "apple",
+            "C3": "hi hi hi hi",
+            "C4": "2"
+        },
+        "Correct": "C1"
+    },
+    {
+        "Question": "What is 2+3?",
+        "Choices": {
+            "C1": "5",
+            "C2": "banana",
+            "C3": "HI HI HI HI",
+            "C4": "2"
+        },
+        "Correct": "C1"
+    },
+    {
+        "Question": "What is an apple?",
+        "Choices": {
+            "C1": "a red",
+            "C2": "a fruit",
+            "C3": "a vegetable",
+            "C4": "a green"
+        },
+        "Correct": "C1"
+    }
+]
