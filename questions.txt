@@ -27,6 +27,6 @@
             "C3": "a vegetable",
             "C4": "a green"
         },
-        "Correct": "C1"
+        "Correct": "C2"
     }
 ]
